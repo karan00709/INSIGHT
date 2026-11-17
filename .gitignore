@@ -1,0 +1,20 @@
+
+# INSIGHT personal data
+insight_history.db
+insight_history.db-journal
+insight_history.db-wal
+insight_history.db-shm
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# Editor files
+.vscode/
